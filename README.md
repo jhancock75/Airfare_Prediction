@@ -1,3 +1,4 @@
+# Airfare Prediction
 The motivation for this project is that several new airports have opened in major cities (at the time of this data collection in 1996), and a major airline wants to predict what fare prices for these new flights could be. 
 
 The dataset used in this model is located in the Airfares.xls file. It contains real data that was collected for the third quarter of 1996 and is made up of the following predictors and response:
