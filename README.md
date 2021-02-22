@@ -1,2 +1,19 @@
-# Airfare_Prediction
-Project done for Advanced Business Analytics course. Goal was to make a simple linear regression model that could predict future airfare price based on a number of features provided.
+The dataset used in this model is located in the Airfares.xls file. It contains real data that was collected for the third quarter of 1996 and is made up of the following predictors and response:
+- S_CODE = Starting airport's code
+- S_CITY = Starting city
+- E_CODE = Ending airport's code
+- E_CITY = Ending city
+- COUPON = Average number of coupons (a one-coupon flight is a non-stop flight, a two-coupon flight is a one stop flight, etc.) for that route
+- NEW = Number of new carriers entering that route between Q3-96 and Q2-97
+- VACATION
+- SW
+- HI
+- S_INCOME
+- E_INCOME
+- S_POP
+- E_POP
+- SLOT
+- GATE
+- DISTANCE
+- PAX
+- FARE (response) =
